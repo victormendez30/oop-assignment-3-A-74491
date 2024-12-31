@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\oop-assignment-3-A-74491\Banking.Library\bin\Debug\net8.0\Banking.Library.deps.json
+C:\Users\victo\source\repos\oop-assignment-3-A-74491\Banking.Library\bin\Debug\net8.0\Banking.Library.dll
+C:\Users\victo\source\repos\oop-assignment-3-A-74491\Banking.Library\bin\Debug\net8.0\Banking.Library.pdb
+C:\Users\victo\source\repos\oop-assignment-3-A-74491\Banking.Library\obj\Debug\net8.0\Banking.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\oop-assignment-3-A-74491\Banking.Library\obj\Debug\net8.0\Banking.Library.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\oop-assignment-3-A-74491\Banking.Library\obj\Debug\net8.0\Banking.Library.AssemblyInfo.cs
+C:\Users\victo\source\repos\oop-assignment-3-A-74491\Banking.Library\obj\Debug\net8.0\Banking.Library.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\oop-assignment-3-A-74491\Banking.Library\obj\Debug\net8.0\Banking.Library.dll
+C:\Users\victo\source\repos\oop-assignment-3-A-74491\Banking.Library\obj\Debug\net8.0\refint\Banking.Library.dll
+C:\Users\victo\source\repos\oop-assignment-3-A-74491\Banking.Library\obj\Debug\net8.0\Banking.Library.pdb
+C:\Users\victo\source\repos\oop-assignment-3-A-74491\Banking.Library\obj\Debug\net8.0\ref\Banking.Library.dll
